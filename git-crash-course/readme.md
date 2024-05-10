@@ -20,7 +20,12 @@ git clone https://github.com/daniel-kemper/Github-Examples.git
 ```
 
 ## Commits
+
+
+
 ```sh
+git add . 
+git status
 git commit -a -m "Comment in here"
 ```
 
