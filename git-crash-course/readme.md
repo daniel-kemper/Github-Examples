@@ -26,7 +26,11 @@ git clone https://github.com/daniel-kemper/Github-Examples.git
 ```sh
 git add . 
 git status
-git commit -a -m "Comment in here"
+git commit -m "Comment in here"
+```
+
+```sh
+git push
 ```
 
 ## Branches
