@@ -1,4 +1,4 @@
-## Git ini
+## Git init
 
 ## Clone
 
