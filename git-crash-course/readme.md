@@ -1,5 +1,8 @@
 ## Git init
-
+Legt neues Repo an
+```sh
+git init
+```
 ## Clone
 
 https: ssh,  GitHub CLI
@@ -28,3 +31,9 @@ git commit -a -m "Comment in here"
 ## Stashing
 
 ## Merging
+
+## Config
+```sh
+git config --list
+```
+
